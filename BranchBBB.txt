@@ -4,3 +4,4 @@ Doing the Third commit
 Doing the Fourth commit
 Doing the Fifth commit
 Doing the Sixth commit
+Doing the Seventh commit
